@@ -25,7 +25,7 @@ load data:
       │   ├── img6.jpeg
       │   └── ...
       └── ...
-  
+  Dataset path：
 `Training`:
 
 ```bash
