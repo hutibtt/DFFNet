@@ -25,7 +25,7 @@ load data:
       │   ├── img6.jpeg
       │   └── ...
       └── ...
-  Dataset path：
+Dataset path：https://pan.quark.cn/s/cc3383136dfe
 `Training`:
 
 ```bash
